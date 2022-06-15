@@ -1,0 +1,30 @@
+.container{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+button{
+     color: #f80ce4;
+     margin-left: 1em;
+}
+.redes{
+    margin-right: 1em;
+}
+#logoAP{
+    width: 150px;
+}
+img{ 
+    width: 50px;
+}
+.container{
+    flex-direction: colum;
+}
+.redes{
+    display: flex;
+    flex-direction: colum;
+    align-items: center;
+    
+}
+.redes{
+    margin: 0.5em;
+}
